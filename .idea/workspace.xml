@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6f83f52-05cb-4708-b8f7-afac71ed0e93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lgq/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lgq/res/11_37_32__11_05_2018.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lgq/res/11_40_38__11_05_2018.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lgq/res/12_03_26__11_05_2018.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lgq/res/12_04_02__11_05_2018.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lgq/res/14_51_50__11_05_2018.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lgq/res/14_59_08__11_05_2018.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lgq/res/15_01_25__11_05_2018.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lgq/res/15_13_04__11_05_2018.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lgq/res/15_13_20__11_05_2018.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/idea_project/com/lgq/package1/question.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/idea_project/com/lgq/package1/question.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/idea_project/com/lgq/package2/attention.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/idea_project/com/lgq/package2/attention.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lgq/package1/question.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lgq/package1/question.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lgq/package2/attention.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lgq/package2/attention.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lgq/package8/f6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lgq/package8/f6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lgq/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lgq/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,14 +29,14 @@
         <counts>
           <entry key="dummy" value="5" />
           <entry key="java" value="2013" />
-          <entry key="md" value="16" />
+          <entry key="md" value="18" />
           <entry key="txt" value="1028" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="2013" />
-          <entry key="PLAIN_TEXT" value="1049" />
+          <entry key="PLAIN_TEXT" value="1051" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -100,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/lgq/readme.md">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
+              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -258,13 +242,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lgq" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Restructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="idea_project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lgq" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -274,7 +251,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541412236555" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541412359397" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -282,11 +259,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/lgq/res" />
       <recent name="$PROJECT_DIR$/src/com/lgq/package8" />
       <recent name="$PROJECT_DIR$/src/com/lgq/package7" />
       <recent name="$PROJECT_DIR$/src/com/lgq/package6" />
       <recent name="$PROJECT_DIR$/src/com/lgq/package5" />
-      <recent name="$PROJECT_DIR$/src/com/lgq/package4" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -802,7 +779,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/lgq/readme.md">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
